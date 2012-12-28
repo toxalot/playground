@@ -1,4 +1,6 @@
-playground
+Playground
 ==========
 
-A place for me to learn Git and GitHub
+### 27-Dec-2012 ###
+
+Created my first repository
