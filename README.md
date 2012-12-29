@@ -4,6 +4,10 @@ Playground
 History
 -------
 
+### 29-Dec-2012
+
+Still trying to get the editor thing working
+
 ### 28-Dec-2012
 
 Having trouble committing. I followed instructions [here](http://stackoverflow.com/a/7549705/1862009) to use
