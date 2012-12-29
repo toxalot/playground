@@ -6,7 +6,7 @@ History
 
 ### 29-Dec-2012
 
-Still trying to get the editor thing working
+Still trying to get the editor thing working - don't need `$*` when setting core.editor directly, but do need it if using a shell script
 
 ### 28-Dec-2012
 
