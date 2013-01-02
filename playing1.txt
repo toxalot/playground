@@ -1,1 +1,1 @@
-Adding a new file
+Updating this file on a branch. Trying to understand how branching works.
